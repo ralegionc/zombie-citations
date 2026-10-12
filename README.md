@@ -153,4 +153,6 @@ the tests need none of the data.
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 Retraction Watch database, published by Crossref. OpenAlex (CC0). Both fetched October 2026.
